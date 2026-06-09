@@ -28,6 +28,7 @@ footer {
 a {
   color: #7c73e6;
 }
+
 .container {
   max-width: 600px;
   margin: 120px auto;
@@ -55,6 +56,9 @@ a {
   padding: 20px;
   border-left: 3px solid #7c73e6;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 2;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
+}
+.quote strong {
+  color: #7c73e6;
 }
